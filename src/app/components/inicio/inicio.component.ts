@@ -23,6 +23,7 @@ export class InicioComponent {
     });
   }
 
+
   accordionItems: Array<{
     isOpen: boolean;
     header: string;
